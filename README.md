@@ -1,4 +1,4 @@
 # edi-2024
-nuevo proyecto Edi
+nuevo proyecto de 2024 en Edi
 
-Primera edicion en clase
+Primera edicion en EDI
