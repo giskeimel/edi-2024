@@ -1,0 +1,3 @@
+Como hago para bajar archivos de mi repositorio
+1. Git fetch (Chequea si hay cambios)
+2. Git pull origin main
