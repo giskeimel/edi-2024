@@ -1,3 +1,4 @@
 Como hago para bajar archivos de mi repositorio
+En la consola
 1. Git fetch (Chequea si hay cambios)
 2. Git pull origin main
