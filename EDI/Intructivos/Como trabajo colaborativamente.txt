@@ -1,0 +1,5 @@
+1. En Settings - Collaborators agrego a mi compañero
+2. Mi compañero acepta la invitacion
+3. Mi compañero se baja mi repositorio (git clone)
+4. Uno de los dos hace cambios y los sube.
+5. El otro descarga los cambios
