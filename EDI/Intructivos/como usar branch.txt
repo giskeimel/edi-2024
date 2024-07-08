@@ -1,0 +1,7 @@
+Para crear un branch o rama:
+En la consola
+git checkout -b <nombre de la rama>
+
+Como me muevo entre branchs
+
+git checkout <nombre de la rama>
